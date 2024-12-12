@@ -1,0 +1,7 @@
+=ZahlGroesserNull>0     (in der Spalte)  "ZahlGroesserNUll" ist der Spaltenname
+
+
+=Firmenname="Firma"     (in der Spalte)
+
+
+=bis>=von   (Überprüfung->Listeneinstellung)
